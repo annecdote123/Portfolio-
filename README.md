@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 Check out the live site here:  
 [Annie Paul Portfolio](https://annecdote123.github.io/Portfolio-/)
 
-![Portfolio Screenshot](images/screenshot.png)
+![Portfolio Screenshot](image/screenshot.png)
 
 ## About
 
