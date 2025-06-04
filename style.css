@@ -1083,3 +1083,28 @@ h1 {
     inset 0 0 16px rgba(200, 180, 255, 0.15);
 }
 
+/* Add this to your style.css */
+.animate {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
+
+/* Ensure sections have transition-ready styles */
+section {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+/* Project card animations */
+.project-card {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+/* Timeline item animations */
+.timeline-item {
+  opacity: 0;
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
