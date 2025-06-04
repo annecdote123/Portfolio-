@@ -5,7 +5,11 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## Live Demo
 
 Check out the live site here:  
-[Annie Paul Portfolio](https://annecdote123.github.io/Portfolio-/)
+<p align="center">
+  <a href="https://annecdote123.github.io/Portfolio-/" target="_blank">
+    🔗 Visit My Portfolio
+  </a>
+</p>
 
 ![Portfolio Screenshot](image/screenshot.png)
 
