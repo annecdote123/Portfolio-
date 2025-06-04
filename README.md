@@ -31,13 +31,4 @@ This portfolio highlights my technical skills, projects, certifications, and sof
 - CSS3 (with CSS variables and responsive design)  
 - JavaScript (for interactive animations and effects)  
 - Particles.js (particle background effect)  
-- Font Awesome (icons)  
-- Google Fonts (Poppins font)
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/annecdote123/Portfolio-.git
